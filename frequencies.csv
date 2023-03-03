@@ -1,0 +1,4 @@
+name,frequency,city,state,zipcode,notes,call_sign
+My Channel 1,446.00625,New York,NY,10001,Testing,ABC123
+My Channel 2,446.01875,San Francisco,CA,94102,Important,DEF456
+My Channel 3,462.55000,Chicago,IL,60601,Testing,GHI789
